@@ -22,15 +22,14 @@ const About = () => {
                  I aspire to be a software developer in France. <ReactCountryFlag countryCode="FR" svg /></p>
             </div>
             <div>
-              <p>I have always liked the idea of having ownership of a website that touches the lives of thousands of people. 
-                I learnt full-stack development from university and Youtube, with the dream that one day I can create an awesome website.
+              <p>I have always liked the idea of creating a website that touches the lives of thousands (or millions) of people. 
+                I learnt full-stack development from university and Youtube, with the dream that one day I can make something awesome.
                 My favourite tech stack is React for frontend, and NodeJS or Flask
-                for backend. I have experience in Object-Oriented Programming with JAVA. I am not a coding god, but I have
-                a fiery passion to create.
+                for backend. I have experience in Object-Oriented Programming with JAVA. I am not a coding god, but I hope to improve my coding skills everyday.
                 </p>  
                 <br/>
                 <p>
-                P.S Je connais un peu le francais.
+                P.S Je connais un peu le francais. 🥖🥐
                 </p>
             </div>
           </div>
