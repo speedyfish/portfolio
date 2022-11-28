@@ -11,7 +11,7 @@ const Work = () => {
 
 
   return (
-    <div name='work' className='w-full h-full bg-[#0a192f] flex justify-center items-center p-4 z-5'>
+    <div name='work' className='w-full h-full bg-[#0a192f] flex justify-center items-center p-4' >
     <VerticalTimeline>
         <VerticalTimelineElement
             className="vertical-timeline-element--work"
