@@ -14,12 +14,19 @@ const About = () => {
           <div></div>
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-            <div className='sm:text-right text-4xl font-bold'>
+            {/* <div className='sm:text-right text-4xl font-bold'>
               <p>
               <span className='text-transparent bg-clip-text bg-gradient-to-r from-[#ff5111] to-[#fee500]'>
                 Bonjour! &nbsp;
                 </span>
                  I aspire to be a software developer in France. <ReactCountryFlag countryCode="FR" svg /></p>
+            </div> */}
+            <div className='sm:text-right text-4xl font-bold'>
+              <p>
+              <span className='text-transparent bg-clip-text bg-gradient-to-r from-[#ff5111] to-[#fee500]'>
+                Bonjour! &nbsp;
+                </span>
+                 I aspire to be a software developer. </p>
             </div>
             <div>
               <p>I have always liked the idea of creating a website that touches the lives of thousands (or millions) of people. 
@@ -28,9 +35,7 @@ const About = () => {
                 for backend. I have experience in Object-Oriented Programming with JAVA. I am not a coding god, but I hope to improve my coding skills everyday.
                 </p>  
                 <br/>
-                <p>
-                P.S Je connais un peu le francais. 🥖🥐
-                </p>
+            
             </div>
           </div>
       </div>
